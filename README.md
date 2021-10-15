@@ -2,6 +2,7 @@
 
 # Organization
 SCG WEDO
+![WEDO](https://scontent.fbkk12-4.fna.fbcdn.net/v/t1.6435-9/s2048x2048/244035471_467183154999094_5726017582184836058_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeE1e-tHQdQrTqE5SRUZNhfdqX6AKxS_jfqpfoArFL-N-q4P7snbSwlBUUS1CsAThys&_nc_ohc=V-p8mcpJLdgAX9DgfKj&_nc_ht=scontent.fbkk12-4.fna&oh=7f0306ae66c2dcf78fe3fdadb59d47a0&oe=6190CB03)
 
 ## Communication
 Slack channel for everyday communication:
