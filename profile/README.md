@@ -7,7 +7,7 @@ Slack channel for everyday communication:
 
 [![Slack][slack-badge]][slack-link]
 
-## Join with US
+## Join US
 WEDO
 Stay humble, pursue your passion, be fearless and create a purposeful innovation for a better future with us.
 
